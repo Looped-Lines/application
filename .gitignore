@@ -1,0 +1,6 @@
+.idea/
+node_modules
+jspm_packages/
+dist/app.js
+dist/app.js.map
+tsconfig.json
