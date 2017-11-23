@@ -1,6 +1,5 @@
 import gulp from 'gulp'
 import {spawn} from 'child-process-promise'
-import chalk from 'chalk'
 
 gulp.task('server:start', function () {
     const port = 7777;
